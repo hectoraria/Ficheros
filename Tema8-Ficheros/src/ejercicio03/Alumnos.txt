@@ -1,0 +1,4 @@
+Edu 19 1.42
+Marcos 15 2.00
+Lorenzo 20 1.76
+Pesopluma 30 1.67 
