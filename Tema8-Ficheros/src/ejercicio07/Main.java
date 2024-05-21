@@ -28,7 +28,7 @@ public class Main {
 				numero = sc.nextInt();
 				sc.nextLine();
 
-				if (!Contacto.addContacto(nombre, numero)) {
+				if (Contacto.addContacto(nombre, numero)) {
 					System.out.println("Contacto añadido correctamente ");
 				} else
 					System.out.println("Error, contacto no añadido");
